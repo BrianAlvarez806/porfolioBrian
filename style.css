@@ -2,6 +2,10 @@ body {
   margin: 0;
 font-family: 'Open Sans', sans-serif;
   color: #03045e;
+  background-image: url(https://i.ibb.co/9tXMs2s/Fox-Demons.jpg); /* Imagen de Fondo */ 
+  background-position: center;
+  background-attachment: fixed;
+  background-size: cover;
 }
 /* Titulo en color rojo */
 h1 {
